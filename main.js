@@ -6,10 +6,10 @@ let texto = document.querySelector('span');
 
 while (nomeUsario == ''){
     
-    nomeUsuario = prompt('qual o seu nome?');
+    nomeUsario = prompt('qual o seu nome?');
 }
 
-if (nomeUsuario == null) {
+if (nomeUsario == null) {
     texto.textContent = 'Usario';
   } else {
     texto.textContent = nomeUsario;
