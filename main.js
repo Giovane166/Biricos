@@ -9,5 +9,9 @@ while (nomeUsario == ''){
     nomeUsuario = prompt('qual o seu nome?');
 }
 
-
-texto.textContent = nomeUsario;
+if (nomeUsuario == null) {
+    texto.textContent = 'Usario';
+  } else {
+    texto.textContent = nomeUsario;
+  }
+  
