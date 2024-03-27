@@ -1,17 +1,17 @@
 alert('Seja bem vindo');
 
-let nomeUsario = '';
+let nomeUsuario = '';
 
 let texto = document.querySelector('span');
 
-while (nomeUsario == ''){
+while (nomeUsuario == ''){
     
-    nomeUsario = prompt('qual o seu nome?');
+    nomeUsuario = prompt('qual o seu nome?');
 }
 
-if (nomeUsario == null) {
+if (nomeUsuario == null) {
     texto.textContent = 'Usario';
   } else {
-    texto.textContent = nomeUsario;
+    texto.textContent = nomeUsuario;
   }
   
