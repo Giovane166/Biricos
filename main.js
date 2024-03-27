@@ -10,7 +10,7 @@ while (nomeUsuario == ''){
 }
 
 if (nomeUsuario == null) {
-    texto.textContent = 'Usario';
+    texto.textContent = 'Usuário';
   } else {
     texto.textContent = nomeUsuario;
   }
