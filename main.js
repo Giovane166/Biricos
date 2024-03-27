@@ -1,3 +1,12 @@
 alert('Seja muito bem vindo');
 
-let nomeUsuario = prompt('qual o seu nome?');
+let nomeUsario = '';
+let texto = document.querySelector('span');
+
+
+
+texto.textContent = nomeUsario;
+
+while (nomeUsario == ''){
+    nomeUsuario = prompt('qual o seu nome?');
+}
