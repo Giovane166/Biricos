@@ -1,4 +1,4 @@
-alert('Seja muito bem vindo');
+alert('Seja bem vindo');
 
 let nomeUsario = '';
 let texto = document.querySelector('span');
