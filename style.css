@@ -23,5 +23,5 @@ span{
 .ativo{
     background-color: rgb(243, 240, 240);
     color: rgb(255, 210, 217);
-    border-bottom: 3px solid rgb(168, 223, 245);
+    border: 3px solid rgb(168, 223, 245);
 }
