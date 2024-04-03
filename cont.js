@@ -1,1 +1,1 @@
-const leticia = document.querySelectorAll('.objetivos');
+const botoes = document.querySelectorAll('.objetivos');
