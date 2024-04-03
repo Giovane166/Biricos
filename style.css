@@ -5,3 +5,8 @@ body{
 span{
     color: rgb(250, 230, 53);
 }
+
+.contagem{
+    background-color: aquamarine;
+    padding: 20px 0
+}
