@@ -1,13 +1,13 @@
 body{
-    background-color: rgb(156, 92, 199);
+    background-color: #8dc2ff;
     color: black;
 }
 span{
-    color: rgb(250, 230, 53);
+    color: rgb(255, 255, 255);
 }
 
 .contagem{
-    background-color:black;
+    background-color: pink;
     padding: 20px 0;
     text-align: center;
 }
