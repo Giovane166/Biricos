@@ -25,3 +25,13 @@ span{
     color: rgb(255, 210, 217);
     border: 3px solid rgb(168, 223, 245);
 }
+
+.aba-conteudo {
+    display: none;
+}
+    
+.ativa { 
+    display: block;
+    color: black;
+}
+    
