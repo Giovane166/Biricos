@@ -6,7 +6,7 @@ let texto = document.querySelector('span');
 
 while (nomeUsuario ==''){ 
 
-    nomeUsuario = prompt('cuidado com o 🐋 qual seu nome?');
+    nomeUsuario = prompt('Qual é o seu nome?');
 }
 
 if (nomeUsuario == null) {
